@@ -1,3 +1,9 @@
+NewsBuzz is a web application that aggregates the latest news from various sources and presents them in an easy-to-read format. With NewsBuzz, users can quickly catch up on the latest news and stay informed about what is happening in the world.
+Building this app was a challenging but rewarding experience. I had to learn how to use React, API, and many more which was a new framework for me. It took a lot of effort, but with the help of online resources and my own determination, I was able to make it work.
+I would like to take this opportunity to thank the React community for their support and guidance. I am thrilled to have completed this project and to have gained valuable skills along the way. I am looking forward to building more apps with React and continuing to learn and grow as a developer.
+Thank you for reading this post, and I hope you will check out NewsBuzz and let me know what you think. 😇
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
